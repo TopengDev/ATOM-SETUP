@@ -1,0 +1,77 @@
+{
+  "_from": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball",
+  "_id": "autoprefixer@4.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-GFQ/8t1wZO3swG4JEsKcGExCinSZyMO/yJUeOklkiCmPOyVQ45U0tSsGOfZySqPJtnKS+7qegGmje6ZIPkBaEQ==",
+  "_location": "/autoprefixer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball",
+  "_shasum": "98f34302a1fb44c8ac160e38b075ee2bb926feaf",
+  "_spec": "https://www.atom.io/api/packages/autoprefixer/versions/4.3.0/tarball",
+  "_where": "C:\\Users\\C\\AppData\\Local\\Temp\\apm-install-dir-2022024-5296-1iebdhb.p7b5g",
+  "activationCommands": {
+    "atom-workspace": [
+      "core:save",
+      "autoprefixer:prefix",
+      "autoprefixer:remove-prefixes"
+    ]
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/atom-autoprefixer/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "postcss-safe-parser": "^6.0.0",
+    "postcss-scss": "^4.0.1",
+    "postcss-unprefix": "^2.1.4"
+  },
+  "deprecated": false,
+  "description": "Prefix CSS and SCSS",
+  "devDependencies": {
+    "xo": "^0.24.0"
+  },
+  "engines": {
+    "atom": ">=1.36.0"
+  },
+  "homepage": "https://github.com/sindresorhus/atom-autoprefixer#readme",
+  "keywords": [
+    "css",
+    "scss",
+    "prefix",
+    "prefixer"
+  ],
+  "license": "MIT",
+  "name": "autoprefixer",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/atom-autoprefixer.git"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "version": "4.3.0",
+  "xo": {
+    "globals": [
+      "atom"
+    ]
+  }
+}

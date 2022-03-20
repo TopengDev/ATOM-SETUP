@@ -1,0 +1,29 @@
+// Base
+// -------------------
+// Used for global styles
+// Or to override certain Atom core styles
+// -------------------
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0);
+}
+::-webkit-scrollbar-thumb {
+  background: @text-color;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: @text-color;
+}
+::-webkit-scrollbar-track-piece {
+  background: rgba(0, 0, 0, 0);
+}
+::-webkit-scrollbar-corner {
+  background: rgba(0, 0, 0, 0);
+}
+atom-pane {
+  border-right: 1px solid @base-border-color;
+  &:last-child {
+    border-right: none;
+  }
+}

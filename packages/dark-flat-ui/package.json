@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball",
+  "_id": "dark-flat-ui@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-9GZnK1sFqKsFGtrCMv726HA8J2lScL3E64U7Z/av4W8PKgrtfMAv9S9hsKEAq0vHylnci60ozSpp3i4N79u1SQ==",
+  "_location": "/dark-flat-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball",
+  "_shasum": "3fea5326cfbb8783c1117a1b35aa1bf31b38f612",
+  "_spec": "https://www.atom.io/api/packages/dark-flat-ui/versions/1.2.4/tarball",
+  "_where": "C:\\Users\\C\\AppData\\Local\\Temp\\apm-install-dir-2022024-2908-iliyno.l9fj",
+  "bugs": {
+    "url": "https://github.com/olmokramer/atom-dark-flat-ui/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A dark flat ui theme",
+  "engines": {
+    "atom": ">0.140.0"
+  },
+  "homepage": "https://github.com/olmokramer/atom-dark-flat-ui#readme",
+  "keywords": [
+    "dark",
+    "flat",
+    "ui",
+    "grey",
+    "gray"
+  ],
+  "license": "MIT",
+  "main": "lib/dark-flat-ui",
+  "name": "dark-flat-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olmokramer/atom-dark-flat-ui.git"
+  },
+  "theme": "ui",
+  "version": "1.2.4"
+}

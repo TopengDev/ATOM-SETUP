@@ -1,0 +1,46 @@
+{
+  "_from": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball",
+  "_id": "an-old-hope-syntax@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-jKb9/Z30Ar+Vx6p9osM2DVmO1K1H9o9wrJThrgI+5pG+/ChnRNLjRTfuN9by08awHiYqK/pJIxI2qAmshmZ40g==",
+  "_location": "/an-old-hope-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball",
+  "_shasum": "b5ab8a738bf2912bc87876e4d1d5a4a90f01f90f",
+  "_spec": "https://www.atom.io/api/packages/an-old-hope-syntax/versions/1.0.4/tarball",
+  "_where": "C:\\Users\\C\\AppData\\Local\\Temp\\apm-install-dir-2022123-6280-1s9bmrf.bxov",
+  "bugs": {
+    "url": "https://github.com/jesseleite/an-old-hope-syntax-atom/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Atom theme inspired by a galaxy far far away...",
+  "engines": {
+    "atom": ">=1.13 <2.0.0"
+  },
+  "homepage": "https://github.com/jesseleite/an-old-hope-syntax-atom#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "star wars"
+  ],
+  "license": "MIT",
+  "name": "an-old-hope-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseleite/an-old-hope-syntax-atom.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.4"
+}

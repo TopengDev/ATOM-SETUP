@@ -1,0 +1,49 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball",
+  "_id": "atom-json-color@0.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-rHADYvkIneaMSfQHGa0CaVKmbRN5YgDZNuxK9bKXHkS9JeBdkE/GlvlOAUaK94DL0XhjDlaUc6zMa3v8EJxK/w==",
+  "_location": "/atom-json-color",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball",
+  "_shasum": "fb39cf1c9ef6998cc1b80953ea7830daca691df2",
+  "_spec": "https://www.atom.io/api/packages/atom-json-color/versions/0.6.0/tarball",
+  "_where": "C:\\Users\\C\\AppData\\Local\\Temp\\apm-install-dir-2022123-13120-qfseho.gouz",
+  "author": {
+    "name": "Stéphane BERTHO"
+  },
+  "bugs": {
+    "url": "https://github.com/th00ber/atom-json-color/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Color a JSON in Atom Editor with a color per level",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/th00ber/atom-json-color#readme",
+  "keywords": [
+    "JSON",
+    "Syntax",
+    "color"
+  ],
+  "license": "MIT",
+  "main": "./lib/atom-json-color",
+  "name": "atom-json-color",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th00ber/atom-json-color.git"
+  },
+  "version": "0.6.0"
+}
